@@ -1,7 +1,7 @@
 # 内容审查机器人
-使用 nonebot 的内容审查 bot，基于 Bert 和 Llama
+使用 `nonebot` 的 `内容审查 bot`，基于 `Bert` 和 `Llama`
 
-下载 bert-base-chinese 的时候建议用镜像站
+下载 `bert-base-chinese` 的时候建议用镜像站
 
 ```
 git clone https://hf-mirror.com/google-bert/bert-base-chinese
@@ -16,7 +16,7 @@ git clone https://hf-mirror.com/google-bert/bert-base-chinese
 pip install -r requirements.txt
 ```
 
-需要编译很久，主要是 llama-cpp-python 要自己编译而且 llama 也不小
+需要编译很久，主要是 `llama-cpp-python` 要自己编译而且 `llama` 也不小
 
 需要自己打包成文件夹 `nonebot_plugin_{这里填你要起的名字}` 然后放进 `plugin` 文件夹就可以了
 
