@@ -1,0 +1,14 @@
+#  pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+
+zhipuai
+pandas
+helium
+selenium
+llama-cpp-python
+transformers
+scikit-learn
+matplotlib
+seaborn
+joblib
+numpy
+tqdm
