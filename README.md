@@ -2,6 +2,8 @@
 
 使用 `nonebot` 的 `内容审查 bot`, 基于 `Bert` 和 `Llama`
 
+**用之前不要忘了 `nonebot2` 的插件命名规则！！！**
+
 ![image](./images/test.png)
 
 ### 部署方法 (需要一些前置知识)
