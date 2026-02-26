@@ -46,7 +46,7 @@ async def handle_all_msg(event: GroupMessageEvent):
     group_id = event.group_id
     print(type(group_id))
 
-    if not (group_id == 1043289075):
+    if not (group_id == 1043289071):
         print("非有效群聊消息")
         return 
 
