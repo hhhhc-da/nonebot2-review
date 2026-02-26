@@ -36,6 +36,43 @@ pip install -r requirements.txt
 nb run --reload
 ```
 
+然后对响应函数做出你想要的操作就可以
+
+```python
+review_handle = on_message(priority=99, block=False, permission=GROUP)
+
+@review_handle.handle()
+async def handle_all_msg(event: GroupMessageEvent):
+    '''
+    内容审查响应函数, 仅在需要回复时回复
+    '''
+    sender_id = event.get_user_id()
+    msg_content = event.get_plaintext().strip()
+    group_id = event.group_id
+    print(type(group_id))
+
+    '''
+    这里直接限制死了群号, 如果你想所有群聊都用的话就去掉就可以了
+    我记得还有其他方法但我的目标就是全部都检测, 所以直接用了 on_message
+    '''
+    if not (group_id == 1043289074):
+        print("非有效群聊消息")
+        return 
+
+    if not msg_content:
+        return 
+
+    print(f"【内容审查】发送者：{sender_id} | 群号：{group_id} | 内容：{msg_content}")
+
+    is_illegal = reviewer.func(msg_content)
+
+    if is_illegal != 0:
+        reply_msg = Message(f"⚠️ 检测到违规内容：{msg_content}\n来自用户 {sender_id}")
+        await review_handle.send(reply_msg)
+
+    return
+```
+
 ---
 
 ### Bert + Deepseek 分类器介绍
