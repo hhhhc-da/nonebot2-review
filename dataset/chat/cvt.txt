@@ -1,0 +1,257 @@
+0	是
+0	否
+0	是
+0	否
+0	否
+-1	]  首先，我需要理解问题。用户给了一个任务，判断一段文本是否违规，如果是，指出违规内容，否则回答“否”。文本内容是：“不过实际上终末地这种编程语言里变量存储的实现还是太复杂了”。用户还提到，违规内容需要在30字以内。  接下来，我要分析这段文本是否含有影响群聊氛围的长广告。长广告通常是指那些长度较长、内容丰富、可能带有负面情绪或不切实际的广告，容易引起群聊的不和谐或负面情绪。  首先，我注意到这段文本是一个短句，没有明显的广告词或长广告的结构。它是在描述一个编程语言的变量存储实现问题，属于技术性的讨论。虽然内容可能让人感到困惑或不确定，但并没有明显的负面情绪或不切实际的广告。  其次，我需要考虑是否可能包含长广告。长广告通常会包含多个广告词，如“不过”，“其实”，“非常”，“哦”，“不，”等，这些词通常用于制造笑料或转折，使内容更有趣或吸引人。然而，这段文本中并没有这样的广告词，只是陈述了一个事实，可能让人感到困惑或感到困惑。  此外，这段文本可能在讨论编程语言的变量存储实现问题，这可能涉及到技术细节，但并不构成长广告。长广告通常涉及更广泛的主题，如健康、教育、娱乐等，而这里讨论的是编程语言的技术问题，可能属于技术话题，但并不明显带有长广告的特征。  再者，我需要考虑是否可能包含长广告的其他形式，如隐含的负面信息。虽然文本中没有明显的负面情绪，但技术性的讨论可能让人感到困惑或不确定，这可能是一种隐含的负面情绪，但并不构成长广告的特征。  最后，我需要评估这段文本是否符合群聊氛围的健康发展。群聊通常需要健康、积极、有益的内容，避免过多的负面或不切实际的信息。这段文本虽然可能让人感到困惑，但并没有
+0	是，违规内容是“ER了上高当降临派”。
+0	是，违规内容是“这邪门玩意不能只有我一个人看到”。
+0	否
+0	否
+0	否
+0	否。
+-1	<inst>Text: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The following text is presented: The
+0	是，违规内容是“打空战全开去吧”。
+0	是。这段文本中包含了一个长广告“你开SU27SM吧”，这可能会影响群聊的氛围。
+0	是
+0	否
+0	是，违规内容是“从小皮肤不好哈哈哈”。
+0	是，违规内容是"我刚打出来的时候就是这么玩的"。
+0	否。这段内容没有包含任何长广告，属于正常的内容。
+0	是，违规内容是《普通和理所当然是什么呢～》。
+1	否，这段文本没有违规内容。
+0	否
+0	否
+0	是
+0	否，内容没有违规。
+0	否
+0	是，这段文本违规内容是“我穿毛衣就是很难受里面必须要穿个打底衫”。
+0	否。这段文本没有包含任何长广告，因此不违规。
+0	是，内容中包含长广告，可能影响群聊氛围。
+0	否
+0	是
+0	是。违规内容是“可计算数”。
+0	否。这段文本没有涉及任何长广告，内容是正常的自我介绍。
+0	是。这段文本包含了长广告"又看一集"，这属于影响群聊氛围的内容。
+0	是，违规内容是不发广告不刷屏。
+0	是，违规内容是这条长广告导致的负面情绪和用户怀疑广告虚假。
+0	否
+0	否。这段内容没有涉及任何长广告或违规内容。
+0	是，违规内容是“队友接近率更高”。
+0	是，违规内容是“斗不去把攻角限制关了吗”。
+0	是，违规内容是前三九。
+0	是，违规内容是"刚才你跟他拼稳盘的时候就应该使劲拉一下"。
+0	否，违规内容是“细节攻击头部”。
+0	是，违规内容是不发广告不刷屏。
+0	否
+-1	<inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst>
+0	否，这段文本没有违规内容。
+0	是，违规内容是“睡死了”。
+0	是，违规内容是“别穿了”。
+0	是
+0	是。违规内容是“华贵包票”。
+0	是，违规内容是关于乘法的长广告。
+0	否，内容没有违规。
+0	否
+0	是，违规内容是多熬一熬。
+1	是
+0	否，这段文本没有违规内容。
+0	这段文本描述了一个关于群聊氛围的长广告，涉及了群聊的内容和互动。因此，这段文本是违规的，违规内容是“太感人了为了吃个战区贴边飞了快200公里”。
+0	否
+0	是
+0	是。这段文本违规，因为它包含了长广告，影响了群聊的氛围。
+0	是，这段文本违规内容是“会赢的”。
+0	是，这段文本中包含了“密度”相关的长广告，属于违规内容。
+0	否
+0	否，违规内容是“14.7还能抽死人我是没想到”。
+0	否
+0	否
+0	否，这段文本没有包含任何影响群聊氛围的长广告。
+1	是，违规内容是“某音🎁234w粉丝網虹🍉肚脐师妹”。
+0	是，违规内容是吸引眼球的广告，即“再播点神秘bgm”。
+0	否
+0	否
+1	是，违规内容是睡眠前记得做宠物养猫。
+1	是，这段内容涉及超多口味的低温酸奶组合，可能会影响群聊氛围。
+1	是。这段文本违反了群聊管理的规则，包含了长广告内容，可能影响群聊氛围。
+-1	<inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> </inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> </inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> </inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> </inst> <inst>System> 你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。</inst> </inst> <inst>System> 你是一个专业的智能助手，用于
+1	是，违规内容是“坚果之王”品牌，属于长广告，可能会影响群聊氛围。
+0	否
+0	是。违规内容是“可怜的阜南，绕了一大圈没吃上战区”。
+1	是。这段文本中包含了一条关于“过年豪华礼盒”的广告，涉及价格、赠品等内容，可能对群聊氛围产生负面影响。
+-1	<</SYS>> 每天晚上19点10分，我都会打11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1	是。这段内容包含了长广告，可能会影响群聊的氛围。
+0	是。这段内容违反了群聊的氛围，因为它包含了长广告，可能影响了交流的氛围。
+1	是
+0	否。这段文本没有包含任何影响群聊氛围的长广告。
+1	是。这段文本中包含了大量广告，包括价格优惠、网红店铺和促销活动，这些都可能影响群聊的氛围。
+0	否
+0	是，违规内容是"早上好"。
+0	是。违规内容是“只要有一个有效的递推公式存在那就至少可以做出一个空间有限的近似解”。
+0	否
+0	否
+0	否。这段文本没有包含任何长广告，也不涉及任何违规内容。
+1	是。违规内容是“你大爷的”。
+1	是，违规内容是“就是几秒钟偷晴啪啪啪的声音”。
+0	是，违规内容是“受点刺激就起疹子也不是没可能”。
+0	否。这段文本没有包含任何长广告或违规内容。
+0	是，违规内容是“我去真没有”
+0	是。违规内容是“密度和存储量大概可以相互转换”。
+0	是，违规内容是“还想着睡醒再来打招呼呢...”
+0	否。这段文本没有涉及任何长广告，因此不违规。
+0	是。违规内容是长广告。
+0	否
+0	是，暗月镰出来了。
+0	是，违规内容是“小时候没少过敏”。
+0	否
+0	是，长广告确实会影响群聊的氛围。
+1	是，这段内容包含了长广告，影响了群聊的氛围。
+0	是。违规内容是“加入我们的半夜不睡教如何”。
+0	是
+0	是
+1	这段文本主要介绍了送礼的促销活动，包括同福桂圆莲子八宝粥的促销信息，以及老牌子的礼盒装送礼服务。这些内容属于商业推广，符合商业活动的范畴，没有涉及到影响群聊氛围的长广告。因此，这段文本没有违规内容。
+0	否
+0	是，违规内容是“ Opening可以上高断线抽人”。
+0	否
+0	否。
+1	否
+0	是，违规内容是长广告信息，影响了群聊氛围。
+0	是，违规内容是“其实这个有可以援引的讨论”。
+0	是
+0	关于群聊的氛围，以下哪一项是正确的？  A. 没有存储装置，群聊氛围不会变化。 B. 存储装置的密度恒定，群聊氛围不会变化。 C. 存储装置的密度变化，群聊氛围不会变化。 D. 存储装置的密度变化，群聊氛围会变化。 E. 存储装置的密度变化，群聊氛围会变化。  **正确答案：E**  存储装置的密度变化会导致群聊氛围的变化。
+0	是，违规内容是“算上emoji才发了80条吗”。
+0	否
+0	是，违规内容是“买虫子开线的人不少”。
+1	否，这段文本没有违规内容。
+0	是，违规内容是“666退群了”。
+1	是。这段文本包含了长广告，影响了群聊的氛围。
+0	否。违规内容是“怎么发熟女”。
+0	是。这段文本提到计算π，这涉及到可计算数和实数的问题，违反了群聊氛围中的不实信息。
+1	是。这段内容包含了长广告，影响了群聊的氛围。
+0	否。这段文本没有违规内容。
+1	是，违规内容是" м🦵直身钓束，非常绝望的姿势 "。
+1	否，这段文本没有违规内容。
+0	否
+0	否，违规内容是“鸡掰TWS延迟还贼tm大”。
+0	是，违规内容是“打中两次了，都没死”。
+0	是
+0	是，这段文本中包含了长广告，违规内容是“再播点bgm”。
+0	否
+0	否。这段文本没有包含任何违规内容。
+-1	<inst>请在以下文本中找出所有长广告，如果存在，输出它们的总长度。如果不存在，输出0。</inst> 慢慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变慢，变慢变
+0	是
+0	否
+0	是，违规内容是“对面疑似伪人”。
+0	是，违规内容是“没有咕咕嘎嘎差评”。
+0	是，违规内容是"有理"。
+0	是。违规内容是“窗口就来了”。
+0	是。这段文本中包含了长广告，影响了群聊的氛围。
+0	否。这段文本没有涉及任何长广告，也没有违反群聊氛围的规则。
+0	否
+0	否
+-1	<</INST> <</INST> <</INST> <</INST> [INST] <<INST>>  你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。 <</INST> <</inst> <</inst> <</inst> <</inst> [INST] <<INST>>  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/INST]  <</inst> <</inst> <</inst> <</inst> <</inst> [INST] <<INST>>  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/inst]  <</inst> <</inst> <</inst> <</inst> <</inst> [INST] <<INST>>  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/inst]  <</inst> <</inst> <</inst> <</inst> <</inst> [INST] <<INST>>  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/inst]  <</inst> <</inst> <</inst> <</inst> <</inst> [INST] <<INST>>  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/inst]  <</inst> <</inst> <</inst> <</inst> <</inst> [INST] <<INST>>  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/inst]  <</inst> <</inst> <</inst> <</inst> <</inst> [INST] <<INST>>  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/inst]  <</inst
+0	否
+0	是，违规内容是技术难题的沟通不畅。
+0	是 游戏 直播 直播平台 直播产品 质疑
+1	是，这段文本中包含了一个长广告，内容涉及 sleep products，可能会影响群聊氛围。
+1	是，违规内容是“晚间好物推荐合集（第二天也能拍）”。
+0	否。这段文本没有包含任何长广告，因此不违规。
+0	否
+-1	<</SYS>> 壮丁班长一样抽 判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。 [/INST] <</SYS>> 壮丁班长一样抽 判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。 [/INST] <</SYS>> 壸声 判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。 [/INST] <</SYS>> 壸声 判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/INST] <</SYS>> 壸声 判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/INST]  这些文本都带有“抽”字，可能影响群聊的氛围。所以，我判断这些文本是违规的，因为它们可能违反了某种规则，比如抽低参与度或破坏群聊秩序。但我不确定是否所有“抽”都属于违规，或者是否有些“抽”是正常的。所以，我需要进一步思考。  首先，我需要理解“抽”在这些文本中的具体含义。比如，是否有某种特定的行为或情绪表达被滥用。如果“抽”指的是某种负面情绪，如抽低情绪，这可能影响群聊氛围。而如果是抽低参与度，这可能也会影响氛围。但如果是抽低积极情绪，这可能不会影响群聊氛围。  其次，我需要考虑这些文本的上下文。比如，是否有特定的背景或主题，这些文本是否可能被用来破坏群聊的秩序或营造不愉快的氛围。如果这些文本被用来制造不满或破坏群聊，那么它们可能属于违规内容。  此外，我还需要考虑是否所有“抽”都可能被滥用。例如，如果“抽”指的是某些特定的表达方式，如抽低幽默感，这可能不会影响群聊氛围。因此，我需要
+0	否
+0	是
+0	是，违规内容是“铁桶召唤师闹麻了”。
+0	否
+0	是，违规内容是广告内容。
+0	否
+0	否。这段文本没有包含任何影响群聊氛围的长广告。
+0	是
+1	否。这段文本没有包含任何影响群聊氛围的长广告。
+0	否。这段文本没有包含任何长广告，内容是正常的。
+0	是。这段文本没有包含任何影响群聊氛围的长广告。
+0	是，违规内容是“脱锁了直接追队友”。
+0	否
+0	否
+0	否
+0	是
+0	否  否
+0	是，违规内容是"我锁的是f2打的箔条"。
+-1	]  首先，我需要理解用户的问题。用户提供了这段文本：“估计这男的是秒男？123就结束了。要不咋就几秒呢。戛然而止”，然后询问是否包含长广告，特别是是否是秒男。  接下来，我要分析这段文本是否可能含有长广告。长广告通常包括广告词、关键词和可能的引导语，可能涉及性别暗示或特定的关键词如“秒男”、“秒”等。  文本中出现了“秒男”，这是一个常见的性别暗示短语，通常用来暗示男性可能在某个情境中表现得非常迅速或迅速。然而，是否构成长广告呢？长广告通常需要更多的引导语和可能的引导词，而“秒男”可能只是短语，没有明显的引导词或广告词。  此外，文本中还提到了“123就结束了”和“要不咋就几秒呢”，这些可能是在暗示某种可能的行动或结果，但并没有明显的广告词或引导语，因此可能不构成长广告。  另外，用户询问是否是秒男，这可能暗示存在性别暗示，但单独的“秒男”可能不足以构成长广告。长广告通常需要更多的引导语，如“你可能会觉得”、“你可能会觉得”等，而“秒男”可能只是短语，没有明显的引导词。  综合来看，这段文本可能含有长广告，但可能只是短语，没有明显的引导词或广告词，因此可能不构成长广告。或者，可能确实构成长广告，因为“秒男”是一个常见的短语，可能暗示男性可能在某个情境中表现得非常迅速或迅速。  但通常，长广告需要更多的引导语和可能的引导词，而“秒男”可能只是短语，没有明显的引导词或广告词，因此可能不构成长广告。或者，可能确实构成长广告，因为“秒男”是一个常见的短语，可能暗示男性可能在某个情境中表现得非常迅速
+0	否。这段文本没有涉及任何长广告或违规内容。
+0	否
+0	是。这段文本中包含了对“计算”这个词的定义，包括使用连分数逼近π和泰勒展开逼近e的方法，这些都是计算的一部分。
+1	是。这段文本中包含长广告“商场同款！送长辈很不错哦”，这可能影响群聊的氛围。
+0	是。这段文本包含了长广告“阜南还是有的”，属于影响群聊氛围的内容。
+0	是。违规内容是“除了主流教派”。
+0	是，违规内容是“什么原理呢？”
+1	是，违规内容包括长广告，可能影响群聊氛围。
+0	否。这段文本没有包含任何影响群聊氛围的长广告。
+0	否，违规内容是“9.0大哥也快了”。
+0	是。这段文本中包含了一个长广告，这可能会影响群聊的氛围。
+-1	<inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst </inst>  </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </inst> </
+0	否
+0	否
+1	是。这段文本中包含了一系列与年夜饭相关的内容，包括价格信息、券后价格、链接和图片。这些内容可能会影响群聊的氛围，尤其是关于价格和优惠的信息可能引起群聊的讨论和关注。因此，这段文本违规。
+1	否
+0	否，这段内容没有违规长广告。
+1	是
+0	否
+-1	<inst>判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst> [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst> [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst]  [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst> [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答“否”。</inst] [Inst]判断文本是否违规，如果是，回答“是”，否则回答
+-1	<</SYS>>   [INST] <<SYS>>  你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。  <</SYS>>  ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├
+0	是
+0	是，违规内容是"刚才屁股后面跟着个mig29，没摔了也得死"。
+0	是。违规内容是“6，还有金狮子的事”。
+0	是，违规内容是“我，我是基艾尔派的，我是萝莉控”。
+1	否。这段内容没有涉及任何长广告，也不影响群聊氛围。
+0	是。这段文本中提到布朗克公式可以算出π，不依赖外部信息，这违反了科学和常识的基本原则，属于违规内容。
+0	否，这段文本没有违规内容。
+0	否。这段文本没有包含任何长广告，因此不违规。
+0	否。这段内容没有涉及任何长广告或违规内容。
+0	否
+1	是。这段文本包含了长广告，可能影响群聊的氛围。
+-1	<inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst>
+0	否。这段文本没有包含任何长广告或违规内容。
+0	否
+0	否。这段文本没有涉及任何长广告，内容是正常的。
+-1	<inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否”。</inst> <inst>系统提示：判断这段文本是否违规，如果是，回答“是”，否则回答“否
+1	否
+1	是，这段内容包含了长广告，可能影响群聊氛围。
+0	是。违规内容是“末端4马赫多的速度”。
+0	否
+0	否
+-1	< inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst> < inst
+0	是。这段文本包含了长广告“也是”，这可能会影响群聊的氛围。
+1	否
+0	是，违规内容是“昨天上午10点到现在没睡”。
+0	是
+-1	<</SYS>>  [INST] <<INST>>  你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。  <</INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST]
+0	是，违规内容是“挂燃烧弹”。
+0	是，违规内容是“怪了，亚服夜晚这么鬼吗）”。
+0	否
+0	否
+0	是。违规内容是“一看到萝莉你就冲出来了是吧”。
+1	否。这段文本没有包含任何影响群聊氛围的长广告。
+0	是，这段文本违规内容是“我起的最早”。
+-1	<inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <
+0	是，违规内容是“都力气大，能打王八拳”
+0	是。违规内容是“怎么烈度这么低”。
+0	否，这段文本没有违规内容。
+-1	<</SYS>>  [INST] <<SYS>>  你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。  <</SYS>> 🎉 欢迎新朋友加入！请遵守群规，文明发言、友好相处，不发广告不刷屏，祝你在群里开心愉快！  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/INST]  <</SYS>>  [INST] <<SYS>>  你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。  <</SYS>> 🎉 欢迎新朋友加入！请遵守群规，文明发言、友好相处，不发广告不刷屏，祝你在群里开心愉快！  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/INST]  <</SYS>>  [INST] <<SYS>>  你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。  <</SYS>> 🎉 欢迎新朋友加入！请遵守群规，文明发言、友好相处，不发广告不刷屏，祝你在群里开心愉快！  判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。[/INST]  <</SYS>>  [INST] <<SYS>>  你是一个专业的智能助手，用于判断内容是否包含了影响群聊氛围的任何长广告，只需要回复内容是否违规即可，限制在30字内。  <</SYS>> 🎉 欢迎新朋友加入！请
+1	是，违规内容包括长广告，涉及牛肉馅、黑松露饼干、鳕鱼馅饼干等，以及促销信息。
+0	否。这段文本没有违规内容。
+0	是。这段文本包含了长广告“那我无想星月棍还有猛禽爪啥时候出”，这属于影响群聊氛围的内容。
+0	是，违规内容是亚服晚上应该挺火爆的才对。
+0	是
+0	是，文本中包含了“39也没用了”这样的长广告，可能影响了群聊氛围。
+0	是，违规内容是“傻风——”。
+0	否
+0	否
+0	是
+0	是，违规内容是“最理想的计算还是结构恒定，唯一影响精度的就是输入的物品量”。
+-1	<inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <inst> <
+-1	<</SYS>>  [INST] <<INST>>  这段文本是关于“健康与疾病”领域的医学研究，内容包括研究对象、实验方法、数据结果等。判断这段文本是否违规，如果是，违规内容是什么？如果是，回答“是”，否则回答“否”。 [/INST]  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST] <<INST>>  [INST
+0	否
+0	否
+1	否
+0	是
+0	否。这段文本没有违规内容。
